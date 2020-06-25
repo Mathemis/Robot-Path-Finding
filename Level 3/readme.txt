@@ -1,0 +1,5 @@
+- file input.txt được đặt trong cùng thư mục với các file BFS.py, BFSMC.py, Greedy.py
+- Gõ lệnh BFS.py trên cmd.
+- Nhấn enter thì ghi kết quả vào file output.txt đồng thời xuất đồ họa ra màn hình console.
+- Tiếp tục với BFSMC.py, Greedy.py cho mỗi thuật toán.
+- Lưu ý: file input.txt cần có format như yêu cầu đồ án, đã được ghi rõ trong các test của báo cáo.

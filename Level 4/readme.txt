@@ -1,0 +1,5 @@
+- file input.txt được đặt trong cùng thư mục với file level4.py
+- Gõ lệnh python level4.py trên cmdm, ấn enter
+- Nhập tên file input (vs input1.txt)
+- Ghi kết quả là chi phí di chuyển từ S đến G vào file output.txt đồng thời xuất đồ họa ra màn hình
+- Lưu ý: file input.txt cần có format như đã trình bày trong báo cáo
