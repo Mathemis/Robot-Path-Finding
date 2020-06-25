@@ -1,7 +1,7 @@
 # Robot-Path-Finding
 Final project of Intro to AI course
 
-Finding path for Robot to reach the goal point avoiding obstables \
+Finding path for Robot to reach the goal point avoiding obstacles \
 Algorithms used: A*, BFS, Greedy Best-First Search
 
 Read 2 pdf files for more details
